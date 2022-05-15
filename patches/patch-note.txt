@@ -1,3 +1,4 @@
 lineheight
 caseinsensitive
 numbers
+fuzzymatch & fuzzyhighlight
